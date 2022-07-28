@@ -1,0 +1,32 @@
+name: algoriza_internship_todo
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.3 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  sqflite: ^2.0.3
+  flutter_bloc: ^8.0.1
+  intl: ^0.17.0
+  flutter_holo_date_picker: ^1.0.6
+  flutter_colorpicker: ^1.0.3
+  flutter_svg: ^1.1.1+1
+  fluttertoast: ^8.0.9
+  flutter_local_notifications: ^9.7.0
+  timezone: ^0.8.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/

@@ -1,0 +1,32 @@
+class StringManager {
+  static const String board = 'Board';
+  static const String all = 'All';
+  static const String completed = 'Completed';
+  static const String uncompleted = 'Uncompleted';
+  static const String favorite = 'Favorite';
+  static const String addATask = 'Add a task';
+  static const String addTask = 'Add task';
+  static const String editTask = 'Edit task';
+  static const String title = 'Title';
+  static const String body = 'Body';
+  static const String date = 'Date';
+  static const String startTime = 'Start time';
+  static const String endTime = 'End time';
+  static const String remind = 'Remind';
+  static const String repeat = 'Repeat';
+  static const String taskColor = 'Task color';
+  static const String createATask = 'Create a task';
+  static const String editATask = 'Edit a task';
+  static const String schedule = 'Schedule';
+  static const String required = 'Required';
+  static const String writeYourTitleHere = 'Write your title here...';
+  static const String writeYourBodyHere = 'Write your body here...';
+  static const String endTimeMustBeAfterStartTime = 'End time must be after start time';
+  static const String notAllowedToUseTheTimeInThePast = 'Not allowed to use the time in the past';
+  static const String chooseReminder = 'Choose reminder';
+  static const String chooseTheTaskColor = 'Choose The Task Color';
+  static const String chooseColor = 'Choose color';
+  static const String selectStartTime = 'Select Start Time';
+  static const String selectEndTime = 'Select End Time';
+  static const String ok = 'OK';
+}
