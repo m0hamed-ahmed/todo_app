@@ -1,5 +1,4 @@
 # Todo App
-A new Flutter project.
 
 ## Screenhots
 <p float="left">
